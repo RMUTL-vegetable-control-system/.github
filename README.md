@@ -1,4 +1,9 @@
-ไฟล์งาน : https://drive.google.com/drive/folders/1JLTReyNFNSj3i1UBryWw7hrjr-_SGop0?fbclid=IwAR2afDmRZvvFBm7bctH3Z2ZOBhqsWGvAasBUrYofqqiQhOgETnepsj_hge4
+# แนะนำโปรเจ็ค
 
+## <mark style="color:yellow;">รายงานการทำงาน</mark>
 
-google sheet https://docs.google.com/spreadsheets/d/1xrYJ-LnXlF6PU__H6fupjpJ1t5klfe06S3I1c7uHDos/edit?fbclid=IwAR30skjKa4WwuwX78H5Cm14r2olZkPCxI6B7F3dI0ggwrU0jSg2_kUWXVVY#gid=0
+{% embed url="https://docs.google.com/spreadsheets/d/1xrYJ-LnXlF6PU__H6fupjpJ1t5klfe06S3I1c7uHDos/edit?usp=sharing" %}
+
+## <mark style="color:yellow;">ไฟล์งาน</mark>
+
+{% embed url="https://drive.google.com/drive/folders/1JLTReyNFNSj3i1UBryWw7hrjr-_SGop0?fbclid=IwAR3JKgezayyOfKQB5oeToJ-iTpgWNS_91u5g516_OW9_hRuX6DDmJGoNuT0" %}
